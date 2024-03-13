@@ -1,0 +1,19 @@
+{
+    "name": "cms/cms",
+    "description": "cms project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victoria Smaranda",
+            "email": "victoria.elena01@yahoo.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
